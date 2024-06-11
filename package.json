@@ -1,0 +1,22 @@
+{
+  "name": "xrpl-nft-automint",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantomCoder/xrpl-nft-automint.git"
+  },
+  "keywords": [
+    "auto-mint"
+  ],
+  "author": "Quantum Coder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuantomCoder/xrpl-nft-automint/issues"
+  },
+  "homepage": "https://github.com/QuantomCoder/xrpl-nft-automint#readme"
+}
